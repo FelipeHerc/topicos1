@@ -1,0 +1,51 @@
+div.header {
+    background-color: #018000;
+    width: auto; 
+    height: 75px;
+    text-align: center;
+}
+
+div.footer {
+    background-color: #808080;
+    width: auto; 
+    height: 75px;
+    text-align: center;
+
+}
+
+div.body {
+    display: flex;
+    flex-direction: row;
+}
+
+div.left-col {
+    display: flex;
+    flex-direction: column;
+}
+
+div.menu {
+    background-color: #FE0000;
+    text-align: center;
+    height: 37vh;
+    width: 17vw;      
+}
+
+div.pics {
+    background-color: #A52929;
+    text-align: center;
+    height: 37vh;
+    width: 17vw;
+}
+
+div.adverts {
+    background-color: #FFBFCD;
+    text-align: center;
+    height: 74vh;
+    width: 17vw;
+}
+
+div.main {
+    background-color: #FFFF01;
+    text-align: center;
+    width: 66vw;
+}
